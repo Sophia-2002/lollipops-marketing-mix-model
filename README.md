@@ -69,8 +69,5 @@ source("lollipops_mmm.R")
 ## 📂 Data availability
 The dataset was provided for coursework and is **not included** in this repository.
 
-## 👥 Team & my contribution
-Group project (5 members). **My contribution:** [fill in]
-
 ---
 **Author:** Sophia Su · [LinkedIn](https://www.linkedin.com/in/yi-wen-su-523a54433)
